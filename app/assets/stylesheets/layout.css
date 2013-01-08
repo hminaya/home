@@ -165,7 +165,7 @@ body header h1 {
   vertical-align: middle;
   width: 93px;
   height: 104px;
-  background: url(/images/logotype@2x.png) no-repeat;
+  background: url(/assets/blo.png) no-repeat;
   background-size: 100%;
   -webkit-background-size: 100%;
 }
@@ -225,7 +225,7 @@ body #content .availability a {
   color: #6baf4e;
 }
 body #content .squareup .logo {
-  background: url(/images/square-logo@2x.png) no-repeat 0 0;
+  background: url(/assets/blo.png) no-repeat 0 0;
   position: relative;
   top: 5px;
   width: 0px;
