@@ -40,6 +40,7 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/base.css" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
       </list>
     </option>
   </component>
@@ -607,13 +608,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/homes.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/homes/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="4" selection-start="374" selection-end="374" vertical-scroll-proportion="-10.0">
@@ -649,16 +643,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="17" selection-start="546" selection-end="546" vertical-scroll-proportion="0.3">
+        <state line="93" column="47" selection-start="3066" selection-end="3066" vertical-scroll-proportion="0.17582418">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/base.css">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/homes.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="47" selection-start="3066" selection-end="3066" vertical-scroll-proportion="0.17582418">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="4" selection-start="554" selection-end="554" vertical-scroll-proportion="0.34615386">
           <folding />
         </state>
       </provider>
